@@ -1,5 +1,5 @@
 [![bounty](https://make.fun/badge/u-myronera-post-the-meme-win-the-feed-2de960bf.svg)](https://make.fun/bounty/u-myronera-post-the-meme-win-the-feed-2de960bf)
-[![rank](https://make.fun/badge/u-myronera-post-the-meme-win-the-feed-2de960bf/bmbngn/makefun-myronera-meme/rank.svg)](https://make.fun/bounty/u-myronera-post-the-meme-win-the-feed-2de960bf)
+[![rank](https://make.fun/badge/u-myronera-post-the-meme-win-the-feed-2de960bf/bmbngn/Makefun-myronera-meme/rank.svg)](https://make.fun/bounty/u-myronera-post-the-meme-win-the-feed-2de960bf)
 [![reward](https://make.fun/badge/u-myronera-post-the-meme-win-the-feed-2de960bf/reward.svg)](https://make.fun/bounty/u-myronera-post-the-meme-win-the-feed-2de960bf)
 
 # Agent Payslip — a make.fun meme for AI agent builders
